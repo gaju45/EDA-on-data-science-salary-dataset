@@ -5,9 +5,8 @@
 
 
 
-
-![App Screenshot](https://github.com/gaju45/python-EDA-on-Data-Science-salaries-2023/assets/97950473/29d8c023-856d-425f-913c-2feb8af1a00f)
-
+https://user-images.githubusercontent.com/97950473/253749724-c2187757-ad25-4818-bdaf-e0e4b404ba46.jpg
+![App Screenshot](https://github.com/gaju45/https://user-images.githubusercontent.com/97950473/253749724-c2187757-ad25-4818-bdaf-e0e4b404ba46.jpg)]
 
 ## Introduction
 
