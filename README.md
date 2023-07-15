@@ -5,9 +5,7 @@
 
 
 
-https://user-images.githubusercontent.com/97950473/253749724-c2187757-ad25-4818-bdaf-e0e4b404ba46.jpg
-![App Screenshot](https://github.com/gaju45/https://user-images.githubusercontent.com/97950473/253749724-c2187757-ad25-4818-bdaf-e0e4b404ba46.jpg)]
-
+![App Screenshot](https://user-images.githubusercontent.com/97950473/253749724-c2187757-ad25-4818-bdaf-e0e4b404ba46.jpg)
 ## Introduction
 
 This is an EDA project that explores the Data Science Salaries in 2023 dataset. The purpose of this project is to gain insights into the current trends and patterns of salaries in the data science industry. The dataset was obtained from Kaggle website and contains information on various features such as job title, years of experience, education level, location, and salary.
