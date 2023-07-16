@@ -17,17 +17,18 @@ The dataset used in this project can be found on Kaggle website under the title 
 
 Data Science Job Salaries Dataset contains 11 columns, each are:
 
-    1. work_year:
-    2. experience_level:
-    3. employment_levelz:
-    4. job_title:
-    5. salary:
-    6. salary_currency:
-    7. salaryinsd:
-    8. employee_residence:
-    9. remote_ratio:
-    10. company_location:
-    11. company_size:
+1. work_year: The year the salary was paid
+2. experience_level: EN Entry-level(Junior) MI Mid-level(Intermediate) SE Senior-level(Expert) EX Executive-level(Director)
+3. job_title: The role worked in during the year
+4. salary: The total gross salary amount paid
+5. salary_currency: The currency of the salary paid as an ISO 4217 currency code
+6. salary_in_usd: The salary in USD
+7. employee_residence: Employee's primary country of residence in during the work year
+8. remote_ratio: 0 No remote work (less than 20%) 50 Partially remote 100 Fully remote (more than 80%)
+9. company_location: The country of the mployer's main office or contracting branch
+10. company_size: The average number of people that worked for the company during the year: S (less than 50 employees) M (50-250 
+    employees) L (more than 250 employees) large   
+11. employment_type: The type of employement for the role: PT Part-time FT Full-time CT Contract FL Freelance
 
 
 ## Methodology
